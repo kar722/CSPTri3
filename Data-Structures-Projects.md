@@ -179,5 +179,5 @@ def ship():
 ### Replit Console Project
 
 <div class="row justify-content-center" style="margin: 2%;">
-    <iframe height="1000px" width="635px" src="https://repl.it/@KarthikValluri/CSPTri3?lite=true"></iframe>
+    <iframe height="1000px" width="700px" src="https://repl.it/@KarthikValluri/CSPTri3?lite=true"></iframe>
 </div>
