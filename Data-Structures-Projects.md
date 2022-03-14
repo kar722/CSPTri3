@@ -173,7 +173,8 @@ def ship():
 ```
 
 
-
+### Github Links
+https://github.com/kar722/CSPTri3/blob/main/week0/menu.py
 
 
 ### Replit Console Project
