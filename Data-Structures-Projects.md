@@ -180,3 +180,7 @@ def ship():
 <div class="row justify-content-center" style="margin: 2%;">
     <iframe height="1000px" width="700px" src="https://repl.it/@KarthikValluri/CSPTri3-1#week0/menu.py?lite=true"></iframe>
 </div>
+
+<div class="row justify-content-center" style="margin: 2%;">
+    <iframe height="1000px" src="https://repl.it/@jmort1021/Python-Hello-Series?lite=true"></iframe>
+</div>
