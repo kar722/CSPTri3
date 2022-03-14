@@ -1,4 +1,4 @@
-def crown(n):
+def tree(n):
     for i in range(n):
         for x in range(n-i):
             print(' ', end=' ')
@@ -7,7 +7,7 @@ def crown(n):
         print()
 
 # Generating Pole Shape
-def trunk(n):
+def bottom(n):
     for x in range(3):
         for i in range(n-1):
             print(' ', end=' ')
@@ -15,8 +15,8 @@ def trunk(n):
 
 def christmastree():
     row = int(input('Enter number of rows: '))
-    crown(row)
-    trunk(row)
+    tree(row)
+    bottom(row)
 
 if __name__ == "__main__":
     christmastree()
