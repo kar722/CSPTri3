@@ -6,6 +6,20 @@ filename: Test-Prep-Study
 
 # Test Prep Study
 
+#### 5.3 Actions
+[HP computers are racist](https://www.youtube.com/watch?v=t4DT3tQqgRM)
+- The owner of the computer thinks this was intentional but most likely being a bug in the software as it was not tested enough. 
+- I think this happened because they tested the motion tracking of the face only using "white" models. 
+- This can be very harmful and be percieved as racist and therefore should be corrected. 
+- To produce a better outcome I would test the software with different face models of different types of skin color.
+
+#### 5.4 Actions
+CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
+- The 150 principes students could come together and find a way to help Ukraine fight against the Russian attacks. Crowdsourcing is essentially a group working together for a common goal so we intiate this idea in our enviroment by accepting donations and spreading the word.
+
+What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+- We could use the kids in Del Norte to work together to make Del Norte a better school and eradicate the lingering problems in our school. My final could be better with crowdsourcing as more brains can give us more ideas.
+
 ### 5.1 Notes
 The Wii controller and iPhone have accelerometers in them.
 
