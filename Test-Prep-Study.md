@@ -6,12 +6,37 @@ filename: Test-Prep-Study
 
 # Test Prep Study
 
+### 5.3 Notes
+Computing Bias
+- Computing innovations can reflect existing human biases because of biases written into the algorithms or biases in the data used by the innovation
+- Programmers should take action to reduce bias in algorithms used for computing innovations as a way of combating existing human biases
+- Biases can be embedded at all levels of software development
+
+
 #### 5.3 Actions
 [HP computers are racist](https://www.youtube.com/watch?v=t4DT3tQqgRM)
 - The owner of the computer thinks this was intentional but most likely being a bug in the software as it was not tested enough. 
 - I think this happened because they tested the motion tracking of the face only using "white" models. 
 - This can be very harmful and be percieved as racist and therefore should be corrected. 
 - To produce a better outcome I would test the software with different face models of different types of skin color.
+
+### 5.4 Notes 
+#####Crowdsourcing
+
+Public Data Sets:
+- Kaggle
+- Google Public Datasets
+- Data.gov
+- Local Government
+  Widespread access to info and public data facilitates the identification of problems, development of solutions and dissemination of results.
+
+Distributed Computing:
+- A ton of computers do 1 task
+  Examples:
+- Spotify with collab playlists
+- Crowdfunding like kickstarter and GoFundMe
+- Blockchain like crypto and other tokens
+
 
 #### 5.4 Actions
 CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
