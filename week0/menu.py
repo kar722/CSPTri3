@@ -2,10 +2,10 @@ from week0.christmastree import christmastree
 from week0.ship import ship
 from week0.keypad import print_matrix
 from week0.swap import swap
-def f1():
-    print('f1')
-def f2():
-    print('f2')
+def sm1():
+    print('Burgers')
+def sm2():
+    print('Pizza')
 
 def buildMenu(menu):
     for key,value in menu.items():
@@ -24,11 +24,11 @@ def presentMenu(menu):
 
 subMenu = {
     1: {"display":"f1",
-        "exec":f1,
+        "exec":sm1,
         "type":"func"},
     2: {"display":"f2",
         "type":"func",
-        "exec":f2,}
+        "exec":sm2,}
 }
 
 mainMenu = {
