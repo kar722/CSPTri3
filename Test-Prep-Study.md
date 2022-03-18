@@ -6,6 +6,8 @@ filename: Test-Prep-Study
 
 # Test Prep Study
 
+## Week 1 Notes
+
 ### 5.3 Notes
 Computing Bias
 - Computing innovations can reflect existing human biases because of biases written into the algorithms or biases in the data used by the innovation
@@ -44,6 +46,11 @@ CompSci has 150 principles students. Describe a crowdsource idea and how you mig
 
 What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
 - We could use the kids in Del Norte to work together to make Del Norte a better school and eradicate the lingering problems in our school. My final could be better with crowdsourcing as more brains can give us more ideas.
+
+<hr style="  border-top: 8px solid #bbb;
+  border-radius: 5px;">
+
+## Week 0 Notes
 
 ### 5.1 Notes
 The Wii controller and iPhone have accelerometers in them.

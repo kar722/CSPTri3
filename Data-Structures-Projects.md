@@ -6,6 +6,79 @@ filename: Data-Structures-Projects
 
 # Data Structures Projects
 
+### Tri 3 TT1 Data Structures
+
+Python Lists Vs Dictionaries 
+- List is a collection of index values pairs as that of array in JS. Dictionary is a hashed structure of key and value pairs.
+
+## Week 1
+
+#### InfoDB Lists
+```aidl
+KVDb = []
+# List with dictionary records placed in a list  
+KVDb.append({  
+               "FirstName": "Karthik",  
+               "LastName": "Valluri",  
+               "DOB": "July 22",  
+               "Location": "San Diego",  
+               "Personal Email": "karthikv722@gmail.com",  
+               "School Email": "karthikv44293@stu.powayusd.com",  
+               "Coding_Languages":["Python","JS","CSS","HTML", "Java"]  
+              })  
+```
+#### Print the second car from Mort's Owns_Cars list
+```
+x = InfoDb[0]["Coding_Languages"][1] 
+result: JS
+ ```
+
+#### There is also a method called get() on the Dictionary(InfoDb[0]) that will give you the same result:
+```aidl
+x = InfoDb[0].get("Coding_Languages")[2]
+result: CSS
+```
+
+#### Print Content from InfoDB
+```aidl
+# given an index this will print InfoDb content
+def print_data(n):
+    print(InfoDb[n]["FirstName"], InfoDb[n]["LastName"])  # using comma puts space between values
+    print("\t", "Cars: ", end="")  # \t is a tab indent, end="" make sure no return occurs
+    print(", ".join(InfoDb[n]["Owns_Cars"]))  # join allows printing a string list with separator
+    print()
+
+
+
+def tester():
+    print("For loop")
+    for_loop()
+    print("While loop")
+    while_loop(0)  # requires initial index to start while
+    print("Recursive loop")
+    recursive_loop(0)  # requires initial index to start recursion
+```
+
+#### While Loop
+```aidl
+# while loop contains an initial n and an index incrementing statement (n += 1)
+def while_loop(n):
+    while n < len(InfoDb):
+        print_data(n)
+        n += 1
+    return
+```
+
+#### For Loop
+```aidl
+# for loop iterates on length of InfoDb
+def for_loop():
+    for n in range(len(InfoDb)):
+        print_data(n)
+```
+<hr style="  border-top: 8px solid #bbb;
+  border-radius: 5px;">
+
 ### Tri 3 TT0 Python Menu, Replit, Github
 
 #### Python Menu w/ data structures and try/except statements
