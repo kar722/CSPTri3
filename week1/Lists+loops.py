@@ -1,5 +1,6 @@
-
 # Hack 1: InfoDB lists.  Build your own/personalized InfoDb with a list length > 3,  create list within a list as illustrated with Owns_Cars
+
+# type "python Lists+loops.py" (without quotes) in the shell
 
 InfoDb = []
 
