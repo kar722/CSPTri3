@@ -8,10 +8,19 @@ filename: Data-Structures-Projects
 
 ### Tri 3 TT1 Data Structures
 
-Python Lists Vs Dictionaries 
-- List is a collection of index values pairs as that of array in JS. Dictionary is a hashed structure of key and value pairs.
+### Replit Week 1
+<div class="row justify-content-center" style="margin: 2%;">
+    <iframe height="1000px" width="700px" src="https://replit.com/@KarthikValluri/CSPTri3-1?lite=true#week1/fibonacci.py"></iframe>
+</div>
+
+<div class="row justify-content-center" style="margin: 2%;">
+    <iframe height="1000px" width="700px" src="https://replit.com/@KarthikValluri/CSPTri3-1?lite=true#week1/Lists+loops.py"></iframe>
+</div>
 
 ## Week 1
+
+Python Lists Vs Dictionaries 
+- List is a collection of index values pairs as that of array in JS. Dictionary is a hashed structure of key and value pairs.
 
 #### InfoDB Lists
 ```aidl
