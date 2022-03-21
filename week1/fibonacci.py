@@ -2,7 +2,7 @@
 
 # Python program to display the Fibonacci sequence
 
-# type "python fibonacci.py" (without quotes) in the shell
+# type "python week1/fibonacci.py" (without quotes) in the shell
 
 def fibonacci(n):
     if n <= 1:
