@@ -23,7 +23,7 @@ Computing Bias
 - To produce a better outcome I would test the software with different face models of different types of skin color.
 
 ### 5.4 Notes 
-#####Crowdsourcing
+##### Crowdsourcing
 
 Public Data Sets:
 - Kaggle
