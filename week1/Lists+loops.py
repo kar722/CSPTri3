@@ -63,10 +63,10 @@ def recursive_loop(i):
 
 
 
-def tester():
-    print("For loop")
-    for_loop()
-    print("While loop")
-    while_loop(0)  
-    print("Recursive loop")
-    recursive_loop(0)  
+
+print("For loop")
+for_loop()
+print("While loop")
+while_loop(0)  
+print("Recursive loop")
+recursive_loop(0)  
