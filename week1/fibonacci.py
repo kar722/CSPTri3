@@ -19,7 +19,7 @@ def try_again():
     for i in range(retry):
         print(fibonacci(i))
 
-# check if the number of terms is valid
+
 
 try:
     terms = int(input("How many terms? "))

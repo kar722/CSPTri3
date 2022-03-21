@@ -2,7 +2,7 @@
 # Hack 1: InfoDB lists.  Build your own/personalized InfoDb with a list length > 3,  create list within a list as illustrated with Owns_Cars
 
 InfoDb = []
-# List with dictionary records placed in a list
+
 InfoDb.append({
     "FirstName": "Lionel",
     "LastName": "Messi",
@@ -30,11 +30,11 @@ InfoDb.append({
     "Played For":["Malmö FF","Ajax","Juventus","Inter Milan","FC Barcelona","AC Milan","Paris Saint-Germain F.C.","Manchester United F.C.","LA Galaxy" ]
 })
 
-# given an index this will print InfoDb content
+
 def print_data(i):
-    print(InfoDb[i]["FirstName"], InfoDb[i]["LastName"])  # using comma puts space between values
-    print("\t", "Teams Played For: ", end="")  # \t is a tab indent, end="" make sure no return occurs
-    print(", ".join(InfoDb[i]["Played For"]))  # join allows printing a string list with separator
+    print(InfoDb[i]["FirstName"], InfoDb[i]["LastName"])  
+    print("\t", "Teams Played For: ", end="")  
+    print(", ".join(InfoDb[i]["Played For"]))  
     print()
 
 # Hack 2: InfoDB loops. Print values from the lists using three different ways: for, while, recursion
@@ -66,6 +66,6 @@ def tester():
     print("For loop")
     for_loop()
     print("While loop")
-    while_loop(0)  # requires initial index to start while
+    while_loop(0)  
     print("Recursive loop")
-    recursive_loop(0)  # requires initial index to start recursion
+    recursive_loop(0)  
