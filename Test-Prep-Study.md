@@ -6,6 +6,98 @@ filename: Test-Prep-Study
 
 # Test Prep Study
 
+## Week 2 Notes
+
+
+### 5.5 Notes
+
+Open source-Programs feely available and can be modified/redistributed
+
+Open access-Online research output free of restriction access like copyright and licensing
+
+Intellectual Property: (IP), work or invention that's a result of creativity to which one has rights
+
+Copyright:
+- Protects your IP and keeps anybody from using it unless you get permission
+- Plagiarism, presenting material as ur own
+- Legal ways to use material
+  - Open source
+  - Open access
+  - Creative Commons
+ 
+Creative Commons:
+- Provides a free license to tell others how ur gonna use their IP
+- Defines the usage of IP
+
+Digital Divide:
+- Unequal distribution of access to technology
+
+### 5.5 Actions
+1
+- Creative Commons Zero v1.0 Universal
+  - No Copyright
+  - Dedicating work to public
+  - Work can be copied, repurposed, and distributed without seeking permission from the creator.
+- MIT License
+  - Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+- Open Source GPL License
+  - Cannot distribute closed source versions.
+
+2
+- I will be using a Creative Common Lisense for my personal project so I can help future students with their Computer Scince Principles. The code from this personal repo is my legacy from this class and I want it to help CSP students to come.
+- Team Repo: We are choosing the Open Source MIT license, we will allow using the code from the Kylies-disciples GitHub to be used freely only to make and distribute closed source versions.
+
+
+
+### 5.6 Notes
+
+Personal Identifiable Information:
+- Info specific to an individual
+- Can be used to steal/impersonate from somebody
+- (PII) Search engines maintain history of what you search
+- Search history used to suggest other websites for marketing
+  - Can collect location
+- GOOD
+  - Can enhance the users experience
+- BAD
+  - Can be exploited if privacy is ignored
+  - Etc. Cookies and trackers
+
+Risks to Privacy:
+- Google knows where you live, and your IP
+- WiFi signal may be tracked
+- Stores w/ cameras can store your image
+  - All this info can be put online, which is hard to get rid of
+  - This info could be used against you and it could give other info about you that you didn't intend to share
+
+Authentication:
+- Authentication measures protect devices and information form unauthorized access
+  - Measures strong passwords and 2FA
+
+Virus and Malware:
+- Bad
+- Can copy and gain access to your information
+- Intended to harm and damage a computer
+Encryption:
+- Prevents unauthorized access
+Decryption:
+- Decoding data
+
+### 5.6 Actions
+- I have seen Personal Identifiable Information (PII) in the CSP nighthawkcodingsociety website which links to twitter, github, and other information
+- I am very safe on the internet and never give my PII to strangers, but I know that if you try and look you can find some of my personal information. But other than my name, birthday, and residence, I don't think the internet has access to my PII.
+- Passwords
+   - Good passwords are long with a mix of upper and lower case letters, numbers, and symbols.
+   - Bad Passwords have ties to your personal information (family names, dog name, birthday) and dictionary words.
+   - 2 Factor Authentication is extremely prevalent in our soctiety today. Emais, texts, and software-based authenticators like Google Authenticator are great ways to assist with authentication
+   - Unlike symmetric encryption, which uses the same secret key to encrypt and decrypt sensitive information, asymmetric encryption, also known as public-key cryptography or public-key encryption, uses mathematically linked public- and private-key pairs to encrypt and decrypt senders' and recipients' sensitive data.
+   - When deploying we initally used HTTP which did not have encryption. But then we used HTTPS which is HTTP with encryption. The difference between the two protocols is that HTTPS uses TLS (SSL) to encrypt normal HTTP requests and responses.
+   - Deceptive phishing is the most common type of phishing scam. In this ploy, fraudsters impersonate a legitimate company to steal people’s personal data or login credentials. Those emails use threats and a sense of urgency to scare users into doing what the attackers want.
+
+
+<hr style="  border-top: 8px solid #bbb;
+  border-radius: 5px;">
+ 
 ## Week 1 Notes
 
 ### 5.3 Notes
