@@ -8,6 +8,50 @@ filename: Data-Structures-Projects
 
 ### Tri 3 TT1 Data Structures
 
+## Week 2 
+
+### Replit
+
+#### Hack 2
+<div class="row justify-content-center" style="margin: 2%;">
+    <iframe height="1000px" width="1000px" src="https://replit.com/@KarthikValluri/CSPTri3-1?lite=true#week2/factorial.py"></iframe>
+</div>
+
+#### Hack 3
+<div class="row justify-content-center" style="margin: 2%;">
+    <iframe height="1000px" width="1000px" src="https://replit.com/@KarthikValluri/CSPTri3-1?lite=true#week2/mathfunc.py"></iframe>
+</div>
+
+#### self 
+``self`` as it suggests, refers to itself- the object which has called the method. That is, if you have N objects calling the method, then ```self.a``` will refer to a separate instance of the variable for each of the N objects. Imagine N copies of the variable ``a`` for each object
+
+
+#### __init__
+``__init__`` is what is called as a constructor in other OOP languages such as C++/Java. The basic idea is that it is a special method which is automatically called when an object of that Class is created
+
+#### class Example
+```
+class receipt():
+    def __init__(self,apples,figs,dates):
+        self.apples = apples
+        self.figs = figs
+        self.dates = dates
+        self.bill = apples + figs + dates
+        print ("Buy",self.apples,"apples", self.figs,"figs 
+                and",self.dates,"dates. 
+                Total bill is",self.receipt," pieces of fruit")
+                
+purchase = receipt(5,6,7)
+```
+result
+```
+> Buy 5 apples 6 figs and 7 dates. Total fruitty bill is 18  pieces of fruit
+```
+
+
+<hr style="  border-top: 8px solid #bbb;
+  border-radius: 5px;">
+
 ### Replit Week 1
 <div class="row justify-content-center" style="margin: 2%;">
     <iframe height="1000px" width="700px" src="https://replit.com/@KarthikValluri/CSPTri3-1?lite=true#week1/fibonacci.py"></iframe>
