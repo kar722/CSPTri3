@@ -16,9 +16,14 @@ class Factorial:
             self.factoSeq.append(facto_number) # builds list, with most nested of the calculations 1st... may hurt your head
         return self.factoSeq[n]
       
-facto_of = Factorial() # object instantiation and run __init__ method
+def printfac():
+  facto_of = Factorial() # object instantiation and run __init__ method
+  
+  print("The Factorial of 10 is: ")
+  print(facto_of(10))
 
-n=int(input("Input a number to compute the factiorial : "))
-print(facto_of(n)) # object running __call__ method
+  print("The Factorial of 14 is: ")
+  print(facto_of(14))
 
-
+if __name__ == "__main__":
+    printfac()

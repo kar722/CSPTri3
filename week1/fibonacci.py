@@ -22,15 +22,18 @@ def try_again():
         print(fibonacci(i))
 
 
+def fibo_print():
+  try:
+      terms = int(input("How many terms? "))
+      assert terms > 0
+  except ValueError:
+      print("That's not a number")
+      try_again()
+  except AssertionError:
+      print("You can't have a negative amount of terms smh")
+      try_again()
+  else:
+      fibo_seq()
 
-try:
-    terms = int(input("How many terms? "))
-    assert terms > 0
-except ValueError:
-    print("That's not a number")
-    try_again()
-except AssertionError:
-    print("You can't have a negative amount of terms smh")
-    try_again()
-else:
-    fibo_seq()
+if __name__ == "__main__":
+    fibo_print()

@@ -5,6 +5,7 @@
 
 # to run: type "python week2/mathfunc.py" (without quotes) in the shell
 
+# OOP
 class Triangular:
     def __init__(self):
         self.triSeq = [0, 1]
@@ -21,6 +22,25 @@ class Triangular:
       
 tri_of = Triangular() # object instantiation and run __init__ method
 
-n=int(input("Enter a Number (nth term of Triangular Number Sequence) : "))
-print(tri_of(n)) # object running __call__ method
+# Imperative
+def triangular_number(n):
+    return n * (n + 1) / 2
 
+def trian():
+  print("Imperative: The 7th Term of Triangular Number Sequence is: ")
+  print(int(triangular_number(7)))
+  
+  print("Imperative: The 13th Term of Triangular Number Sequence is: ")
+  print(int(triangular_number(13)))
+  
+  print("------------------------------------------------------------------------")
+  
+  print("OOP: The 7th term of Triangular Number Sequence is: ")
+  print(tri_of(7))
+  
+  print("OOP: The 13th term of Triangular Number Sequence is: ")
+  print(tri_of(13))
+
+
+if __name__ == "__main__":
+    trian()

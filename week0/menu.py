@@ -1,7 +1,8 @@
-from week0.christmastree import christmastree
-from week0.ship import ship
-from week0.keypad import print_matrix
-from week0.swap import swap
+import christmastree
+import ship
+from keypad import print_matrix
+import swap
+
 def sm1():
     print('Burgers')
 def sm2():
