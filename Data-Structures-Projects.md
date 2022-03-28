@@ -12,14 +12,9 @@ filename: Data-Structures-Projects
 
 ### Replit
 
-#### Hack 2
+#### Menu.py
 <div class="row justify-content-center" style="margin: 2%;">
-    <iframe height="1000px" width="1000px" src="https://replit.com/@KarthikValluri/CSPTri3-1?lite=true#week2/factorial.py"></iframe>
-</div>
-
-#### Hack 3
-<div class="row justify-content-center" style="margin: 2%;">
-    <iframe height="1000px" width="1000px" src="https://replit.com/@KarthikValluri/CSPTri3-1?lite=true#week2/mathfunc.py"></iframe>
+    <iframe height="1000px" width="1000px" src="https://replit.com/@KarthikValluri/CSPTri3-1?lite=true#menu.py"></iframe>
 </div>
 
 #### self 
