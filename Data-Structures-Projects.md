@@ -8,6 +8,8 @@ filename: Data-Structures-Projects
 
 ### Tri 3 TT1 Data Structures
 
+<iframe height="1000px" width="600px" src="https://replit.com/@KevinChen138/Tri-3-Thingy?lite=true#main.py"></iframe>
+
 ## Week 2 
 
 ### Replit
