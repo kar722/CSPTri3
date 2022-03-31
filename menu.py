@@ -11,7 +11,7 @@ from week2.mathfunc import trian
 from week2.palindrome import pal
 
 from week2.convert import printconvert
-
+from week2.lcm import printmath
 
 week0 = {
     1: {
@@ -73,6 +73,11 @@ week2 = {
     4: {
         "display":"Convert Min to Days",
         "exec":printconvert,
+        "type":"func"
+    },
+    5: {
+        "display":"LCM",
+        "exec":printmath,
         "type":"func"
     },
     0: {
