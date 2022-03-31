@@ -10,6 +10,7 @@ from week2.factorial import printfac
 from week2.mathfunc import trian
 from week2.palindrome import pal
 
+from week2.convert import printconvert
 
 
 week0 = {
@@ -67,6 +68,11 @@ week2 = {
     3: {
         "display":"EC: Palindrome",
         "exec":pal,
+        "type":"func"
+    },
+    4: {
+        "display":"Convert Min to Days",
+        "exec":printconvert,
         "type":"func"
     },
     0: {

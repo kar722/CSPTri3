@@ -8,7 +8,8 @@ def convert_minutes_to_days(total_mins):
     print(f"{total_mins} = {days} days, {hours} hours, and {minutes} minutes")
 
 def printconvert():
-    convert_minutes_to_days(30)
+    n = int(input("Enter amount of Min: "))
+    convert_minutes_to_days(n)
 
 if __name__ == "__main__":
   printconvert()
