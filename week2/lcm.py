@@ -18,9 +18,11 @@ class mathFunc:
     ans = self.findlcm()
     print("\n Least Common Multiple of {0} and {1} is: {2}".format(self.firstnumber, self.secondnumber, ans))
     print()
-    
 
-if __name__ == "__main__":
+def printmath():
     math = mathFunc(23,10013)
     math()
+
+if __name__ == "__main__":
+  printmath()
 
