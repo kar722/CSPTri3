@@ -4,6 +4,18 @@ layout: template
 filename: Data-Structures-Projects
 --- 
 
+### What is OOP programming 
+- Stands for object oriented programming
+- Instead of being more focussed on functions and procedural abstraction this is more focussed on objects
+- An object is an data type which uses something called inheritance
+- 4 basics include: abstraction, encapsulation, inheritance and polymorphism
+![download](https://user-images.githubusercontent.com/89176673/161670411-848843b5-8b89-409c-a30a-ab45618d413d.png)
+
+
+Here is a code snippet from online showcasing OOP
+![OOPye](https://user-images.githubusercontent.com/89176673/161670447-5dfb14be-b6ab-4399-a6fb-784d2c770129.png)
+
+
 # Data Structures Projects
 
 ### Tri 3 TT1 Data Structures
