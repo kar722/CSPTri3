@@ -118,6 +118,7 @@ Computing Bias
 
 ### 5.4 Notes 
 ##### Crowdsourcing
+![5 4](https://user-images.githubusercontent.com/89176673/161669347-79ef2d3d-1d8a-42b2-8f96-9160db025963.jpg)
 
 Public Data Sets:
 - Kaggle
