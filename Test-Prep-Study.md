@@ -6,6 +6,7 @@ filename: Test-Prep-Study
 
 # Test Prep Study
 
+
 ## Week 2 Notes
 
 
@@ -108,6 +109,7 @@ Computing Bias
 
 
 #### 5.3 Actions
+![5 3 image](https://user-images.githubusercontent.com/89176673/161669164-75066995-597d-4c90-910e-fec187786fd3.jpg)
 [HP computers are racist](https://www.youtube.com/watch?v=t4DT3tQqgRM)
 - The owner of the computer thinks this was intentional but most likely being a bug in the software as it was not tested enough. 
 - I think this happened because they tested the motion tracking of the face only using "white" models. 
