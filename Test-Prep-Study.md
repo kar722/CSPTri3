@@ -175,6 +175,9 @@ Microtransactions
 - Rapid sharing of a program or running a program with a large number of users can result in significant impacts beyond the intended purpose or control of the programmer.
 
 #### 5.1 Notes
+![5 1](https://user-images.githubusercontent.com/89176673/161669589-c0becfae-c101-403e-9665-0e9bedbbab75.jpg)
+
+
 Come up with three of your own Beneficial and corresponding Harmful Effects of Computing.
 - Some beneficial effects of computing is that it makes a lot of things easier. By being able to effectively communicate using technology or having greater access to resources you're able to inform yourself more about the world around you. Some of the harmful effects of computing is that you tend to become too reliant on these technologies. This can provoke all sorts of health problems in the future.
 
