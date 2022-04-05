@@ -12,6 +12,9 @@ filename: Test-Prep-Study
 
 ### 5.5 Notes
 
+![d13d0836183673d2ec9c24bac07f97c5--ethical-issues-environmental-issues](https://user-images.githubusercontent.com/89176673/161669937-ee88f513-022a-4db8-bce3-55b8c83be347.jpg)
+
+
 Open source-Programs feely available and can be modified/redistributed
 
 Open access-Online research output free of restriction access like copyright and licensing
