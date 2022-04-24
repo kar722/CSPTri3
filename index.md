@@ -1,5 +1,5 @@
 ---
-title: 🏠
+title: A 🏠
 layout: template
 filename: index
 --- 
