@@ -1,7 +1,7 @@
 ---
 title: Finals Quiz 2 Corrections
 layout: template
-filename: Quiz/FinalsQuiz2Corrections
+filename: FinalsQuiz2Corrections
 --- 
 
 ## AP Computer Science Principles Finals-Quiz2 MCQ and Test Corrections:
