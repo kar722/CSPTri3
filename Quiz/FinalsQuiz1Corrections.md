@@ -1,8 +1,12 @@
+---
+title: Finals Quiz 1 Corrections
+layout: template
+filename: FinalsQuiz1Corrections
+--- 
+
 ## AP Computer Science Principles Finals-Quiz1
 
-### MCQ and Test Corrections:
-
-Karthik Valluri AP MCQ Practice Test Corrections:
+### Karthik Valluri AP MCQ Practice Test Corrections:
 
 ![](images/image4.png)
 
